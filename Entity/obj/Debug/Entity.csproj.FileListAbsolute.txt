@@ -1,0 +1,5 @@
+E:\Project\MauNhaDep\MauNhaDep\Entity\bin\Debug\Entity.dll
+E:\Project\MauNhaDep\MauNhaDep\Entity\bin\Debug\Entity.pdb
+E:\Project\MauNhaDep\MauNhaDep\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Project\MauNhaDep\MauNhaDep\Entity\obj\Debug\Entity.dll
+E:\Project\MauNhaDep\MauNhaDep\Entity\obj\Debug\Entity.pdb

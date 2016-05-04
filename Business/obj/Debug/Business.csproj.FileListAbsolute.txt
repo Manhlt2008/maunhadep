@@ -1,0 +1,9 @@
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\Business.dll
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\Business.pdb
+E:\Project\MauNhaDep\MauNhaDep\Business\obj\Debug\Business.dll
+E:\Project\MauNhaDep\MauNhaDep\Business\obj\Debug\Business.pdb
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\DataAccess.dll
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\Entity.dll
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\DataAccess.pdb
+E:\Project\MauNhaDep\MauNhaDep\Business\bin\Debug\Entity.pdb
+E:\Project\MauNhaDep\MauNhaDep\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache

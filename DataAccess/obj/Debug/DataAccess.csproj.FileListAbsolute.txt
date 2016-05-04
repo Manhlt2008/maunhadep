@@ -1,0 +1,7 @@
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\bin\Debug\DataAccess.dll
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\obj\Debug\DataAccess.dll
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\bin\Debug\Entity.dll
+E:\Project\MauNhaDep\MauNhaDep\DataAccess\bin\Debug\Entity.pdb

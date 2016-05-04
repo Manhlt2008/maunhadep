@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    @Html.Raw(ViewBag.HeadTitle)
+    @Html.Raw(ViewBag.MetaDescription)
+    @Html.Raw(ViewBag.NoIndex)
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Styles/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="header">
+        @Html.Partial("~/Views/Shared/_Header.cshtml")
+    </div>
+    <div class="main bg_body">
+        @RenderBody()
+    </div>
+    <div class="footer">
+        @Html.Partial("~/Views/Shared/_Footer.cshtml")
+    </div>
+    
+</body>
+</html>
